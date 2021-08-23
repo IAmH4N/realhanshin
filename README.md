@@ -1,3 +1,4 @@
+![HI](https://github.com/realhanshin/realhanshin/blob/main/20210822_225950_0000.png)
 <h1 align="center">Hi 👋, I'm Han Shin</h1>
 <h3 align="center">IT Beginner</h3>
 
